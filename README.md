@@ -4,9 +4,9 @@
 
 # 连接数据库
 首先要安装hiredis
-wget https://github.com/redis/hiredis/archive/v0.14.0.tar.gz
-make 
-make install
+wget https://github.com/redis/hiredis/archive/v0.14.0.tar.gz  <br>
+make  <br>
+make install <br>
 
 库的路径 /usr/local/lib/libhiredis.so
 
